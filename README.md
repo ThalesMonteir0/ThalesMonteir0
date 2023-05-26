@@ -1,5 +1,7 @@
-<div style = 'display: flex'>
-  <div style = 'justify-content: center'>
+<div style="
+    display: flex;
+    justify-content: center;">
+  <div>
       <p>### Opa, Sou o Thales Monteiro!</p>
 
   <p>- 🔭 I’m currently working on front-end and back-end</p>

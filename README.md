@@ -1,4 +1,4 @@
-<div style = 'display: align-center'>
+<div style = 'display: flex; align-items: center'>
   <p>### Opa, Sou o Thales Monteiro!</p>
 
   <p>- 🔭 I’m currently working on front-end and back-end</p>

@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on front-end and back-end
 - 📫 How to reach me: thales.monteiro.moreira@gmail.com
 
-<div align="center">
+<div>
   <a href="https://github.com/ThalesMonteir0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesMonteir0&layout=compact&langs_count=7&theme=synthwave"/>
 </div>

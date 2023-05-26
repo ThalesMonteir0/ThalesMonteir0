@@ -1,8 +1,9 @@
-### Opa, Sou o Thales Monteiro!
+<div style = 'display: align-center'>
+  <p>### Opa, Sou o Thales Monteiro!</p>
 
-- 🔭 I’m currently working on front-end and back-end
-- 📫 How to reach me: thales.monteiro.moreira@gmail.com
-
+  <p>- 🔭 I’m currently working on front-end and back-end</p>
+  <p>- 📫 How to reach me: thales.monteiro.moreira@gmail.com</p>
+</div>
 <div>
   <a href="https://github.com/ThalesMonteir0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesMonteir0&layout=compact&langs_count=7&theme=synthwave"/>

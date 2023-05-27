@@ -1,14 +1,11 @@
-<div style="
-    display: flex;
-    justify-content: center;">
+<div style="display: flex;justify-content: center;">
   <div>
       <p>### Opa, Sou o Thales Monteiro!</p>
-
-  <p>- 🔭 I’m currently working on front-end and back-end</p>
-  <p>- 📫 How to reach me: thales.monteiro.moreira@gmail.com</p>
-</div>
+      <p>- 🔭 I’m currently working on front-end and back-end</p>
+      <p>- 📫 How to reach me: thales.monteiro.moreira@gmail.com</p>
   </div>
-<div>
+</div>
+  <div>
   <a href="https://github.com/ThalesMonteir0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesMonteir0&layout=compact&langs_count=7&theme=synthwave"/>
 </div>

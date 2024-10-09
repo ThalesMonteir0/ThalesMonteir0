@@ -13,7 +13,7 @@
  <div style="display: inline_block"><br>
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="center" alt="postgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="postgreSQL" height="35" width="45" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"/>
+  <img align="center" alt="postgreSQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"/>
   <img align="center" alt="Sob-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sob-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Sob-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">          
